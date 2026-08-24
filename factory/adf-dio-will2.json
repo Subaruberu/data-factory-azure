@@ -1,0 +1,15 @@
+{
+	"name": "adf-dio-will2",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4cb8123a-90ec-4363-8401-1d923b7fe209",
+		"tenantId": "411e631b-392b-43a0-addc-0ae4d219f445"
+	}
+}
